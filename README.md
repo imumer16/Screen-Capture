@@ -7,9 +7,10 @@
 ## 🛠 Skills
 C#
 
-## Screenshots
-![App Screenshot](https://github.com/imumer12/Ping-Pong/blob/main/Ping%20Pong.png)
-
+## Main Menu
+![App Screenshot](https://github.com/imumer12/Screen-Capture/blob/main/capture.png)
+## Demo
+![App Screenshot](https://github.com/imumer12/Screen-Capture/blob/main/screenShort.png)
 
 ## License
 
