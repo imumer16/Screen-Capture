@@ -1,0 +1,11 @@
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\bin\Debug\screenshort.exe.config
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\bin\Debug\screenshort.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\bin\Debug\screenshort.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.csprojAssemblyReference.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.Form1.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.Properties.Resources.resources
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.csproj.GenerateResource.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.csproj.CoreCompileInputs.cache
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.exe
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.pdb
+C:\Users\umera\Documents\Visual Studio 2017\Projects\screenshort\screenshort\obj\Debug\screenshort.Form2.resources
